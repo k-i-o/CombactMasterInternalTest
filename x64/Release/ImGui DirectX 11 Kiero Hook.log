@@ -1,0 +1,32 @@
+﻿  main.cpp
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(118077,33): error C2059: syntax error: 'constant'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(118078,33): error C2059: syntax error: 'constant'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(118078,39): error C2535: 'System_IO_TextWriter_o *System_Console_StaticFields::__acrt_iob_func(void)': member function already defined or declared
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(118077): message : see declaration of 'System_Console_StaticFields::__acrt_iob_func'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(118079,33): error C2059: syntax error: 'constant'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(118079,38): error C2556: 'System_IO_TextReader_o *System_Console_StaticFields::__acrt_iob_func(void)': overloaded function differs only by return type from 'System_IO_TextWriter_o *System_Console_StaticFields::__acrt_iob_func(void)'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(118077): message : see declaration of 'System_Console_StaticFields::__acrt_iob_func'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(118079,33): error C2371: 'System_Console_StaticFields::__acrt_iob_func': redefinition; different basic types
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(118077): message : see declaration of 'System_Console_StaticFields::__acrt_iob_func'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(118971,35): error C2059: syntax error: 'constant'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(118972,36): error C2059: syntax error: 'constant'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(118972,42): error C2556: 'System_IO_CStreamWriter_o *System_TermInfoDriver_Fields::__acrt_iob_func(void)': overloaded function differs only by return type from 'System_IO_StreamReader_o *System_TermInfoDriver_Fields::__acrt_iob_func(void)'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(118971): message : see declaration of 'System_TermInfoDriver_Fields::__acrt_iob_func'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(118972,36): error C2371: 'System_TermInfoDriver_Fields::__acrt_iob_func': redefinition; different basic types
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(118971): message : see declaration of 'System_TermInfoDriver_Fields::__acrt_iob_func'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(119033,10): error C2628: 'int32_t' followed by '__int32' is illegal (did you forget a ';'?)
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(119033,16): error C2208: 'int': no members defined using this type
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(276966,35): error C2332: 'struct': missing tag name
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(276966): error C2226: syntax error: unexpected type 'UnityEngine_InputSystem_Layouts_InputDeviceMatcher_MatcherJson_Fields::<unnamed-tag>'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(276966,35): error C2238: unexpected token(s) preceding ';'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(277473,35): error C2332: 'struct': missing tag name
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(277473): error C2226: syntax error: unexpected type 'UnityEngine_InputSystem_Layouts_InputDeviceDescription_DeviceDescriptionJson_Fields::<unnamed-tag>'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(277473,35): error C2238: unexpected token(s) preceding ';'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(601763,43): error C2059: syntax error: 'this'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(601763,47): error C2238: unexpected token(s) preceding ';'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(601784,43): error C2059: syntax error: 'this'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(601784,47): error C2238: unexpected token(s) preceding ';'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(607031,38): error C2059: syntax error: 'constant'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(607032,38): error C2059: syntax error: 'constant'
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(607032,44): error C2535: 'System_Text_StringBuilder_o *YoutubePlayer_LocalYoutubeDl___c__DisplayClass4_0_Fields::__acrt_iob_func(void)': member function already defined or declared
+D:\Projects\Il2Cpp-base\ImGui DirectX 11 Kiero Hook\il2cpp.h(607031): message : see declaration of 'YoutubePlayer_LocalYoutubeDl___c__DisplayClass4_0_Fields::__acrt_iob_func'
